@@ -4,7 +4,7 @@ React Component可以简单地认为是一种的从**props**和**state**映射�
 
 ## 文摘
 * [A React Primer For Meteor](https://www.discovermeteor.com/blog/react-for-meteor/)
-* [React Howto by Pete hunt](https://github.com/petehunt/react-howto)
+* [React Howto](https://github.com/petehunt/react-howto) by Pete hunt
 
 
 
